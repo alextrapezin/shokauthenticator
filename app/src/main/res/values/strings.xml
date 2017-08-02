@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Shok Authenticator</string>
+    <string name="ok">OK</string>
+    <string name="enter_key">Введите ключ</string>
+    <string name="enter_email">Введите email</string>
+    <string name="add_key">Добавить</string>
+    <string name="title_add_key">Добавьте новый аккаунт</string>
+    <string name="title_activity_keys">KeysActivity</string>
+    <string name="wrong_secret_key_format">Не верный формат ключа</string>
+    <string name="secret_key_exc_text">length=0; index=-1</string>
+    <string name="required_field">Обязательное поле</string>
+    <string name="delete">Удалить</string>
+    <string name="shared_pref_auth">shared_pref_auth</string>
+    <string name="add_key_type">Выберите способ ввода:</string>
+    <string name="scan_qr">Сканировать QR код</string>
+    <string name="type_manually">Ввод вручную</string>
+    <string name="invalid_qr_code">Ошибка в QR коде</string>
+</resources>
